@@ -12,4 +12,4 @@ Coursera Data Management and Visualization 과제
 ![image](https://github.com/user-attachments/assets/0b4bca84-cea2-4a39-a188-64858d9063ad)
 . 빈도표를 작성해보니 Low는 이하는 71%, very high는 13%로 확인되었다. 
 . 기대수명에 대해서는 아래와 같이 기대수명에 대한 빈도표도 작성해보았다. 
-![image](https://github.com/user-attachments/assets/9ce667dd-00ce-49f1-a3c4-69316eb7251a)
+![image](https://github.com/user-attachments/assets/0347f7d6-c789-4e15-b014-9de84e056749)
