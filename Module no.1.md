@@ -10,14 +10,14 @@ Coursera Data Management and Visualization 과제
 
 저는 그중 소득을 중심으로 아래의 두가지 주제를 분석해보고자 합니다.  
 
-**1. 소득과 유방암 수명 간의 상관관계 분석**
+**1. 소득과 유방암 발생률 간의 상관관계 분석**
 변수: incomeperperson (소득)와 breastcancerper100th (100명 당 유방암 발생률)  
 연구 주제: 국가별 소득 수준과 유방암 발생률 간의 상관관계를 분석함으로써, 소득이 건강과 생명에 미치는 영향을 파악할 수 있습니다. 
 ![image](https://github.com/user-attachments/assets/f940bd5c-544f-471d-a765-e27fa3599966)
 
 **2. 소득과 기대 수명간의 상관관계 분석**
 변수: incomeperperson (소득)과 lifeexpectancy (기대수명)  
-연구 주제: 소득과 기대 수명 간 상관관계를 분석함으로써, 유방암 발생률과 기대수명 간 관계도 확장해 파악할 수 있습니다. 
+연구 주제: 소득과 기대 수명 간 상관관계를 분석함으로써, 소득과 기대수명 간 관계도 확장해 파악할 수 있습니다. 
 ![image](https://github.com/user-attachments/assets/dc1d28aa-1038-4f90-b209-550f6822a7a6)
 
 **연구 가설 : 소득이 높을수록 유방암 발생률은 증가하지만, 기대수명 또한 증가할 것이다**
