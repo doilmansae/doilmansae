@@ -1,9 +1,9 @@
 Coursera Data Management and Visualization 과제
 # MODULE 4
 ## 1단계: 변수에 대한 단변량 그래프
-. 각 변수들의 중심과 확산의 정도를 파악할 수 있는 테이블을 추가로 작성하였음. 평균, 중앙값, 표준편차, 최소값, 최대값을 포함한 기술적 통계자료임.  
-. 이를 살펴보고 변수들을 어떤 그래프로 시각화 하는것이 정보 전달에 유리할지 판단할 수 있음.  
-![image](https://github.com/user-attachments/assets/4e953631-230a-482f-b25c-c3ae0af16b14)
+. 단변량 그래프를 통해 각 변수에 대해 히스토그램, 박스플롯, 밀도 그래프 등을 그려 변수의 분포를 파악합니다.
+![image](https://github.com/user-attachments/assets/17ed6bb4-6f5d-4f95-b99c-8f8cac68c722)
+
 
 
 1. 소득수준
