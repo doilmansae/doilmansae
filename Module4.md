@@ -7,19 +7,12 @@ Coursera Data Management and Visualization 과제
 
 
 1. 소득수준
-. 값의 범위가 커서 히스토그램을 사용하여 그래프를 그려보았으며, 소득이 낮은 구간 10000이하에 많은 국가가 있으므로 로그 변환 히스토그램을 사용함.
+![image](https://github.com/user-attachments/assets/844dfe1b-31db-4050-922c-1b4d374c68eb)
 
-![image](https://github.com/user-attachments/assets/7dd7ca95-eb3d-4d9c-b7c3-55908cfdd407)
-![image](https://github.com/user-attachments/assets/65824ff8-eb2e-4081-b21c-e90a38dd7ba2)
+2. 유방암 발병비율
+![image](https://github.com/user-attachments/assets/caa5768c-9797-4633-ab32-83019f587fc9)
 
-
-3. 유방암 발병비율
-. 0~100% 구간의 퍼센트 데이터임으로 히스토그램을 사용하여 도식화함.  
-![image](https://github.com/user-attachments/assets/649f98d0-6349-40ba-b90a-f0af55d2dcd0)
-
-
-4. 기대수명
-. 상대적으로 좁은 범위 50~80세이며 평균 주위에 몰려있는 경향이 커서 밀도곡선(KDE)를 사용하여 도식화함.  
+3. 기대수명 
 ![image](https://github.com/user-attachments/assets/d21da015-32f1-4754-9700-844f4902f724)
 
 
