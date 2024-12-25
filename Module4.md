@@ -13,13 +13,15 @@ Coursera Data Management and Visualization 과제
 ![image](https://github.com/user-attachments/assets/caa5768c-9797-4633-ab32-83019f587fc9)
 
 3. 기대수명 
-![image](https://github.com/user-attachments/assets/d21da015-32f1-4754-9700-844f4902f724)
+![image](https://github.com/user-attachments/assets/6dcb986f-c093-47fa-b3c7-35b90a092f38)
 
 
 ## 2단계: 두 변수간의 연관성을 보여주는 이변량 그래프
-. 소득 수준(incomeperperson)과 기대수명(lifeexpectancy): 소득이 높을수록 기대수명이 증가하는 경향을 볼 수 있는지 확인하기 위해 산점도(scatter plot)를 사용함.  
-![image](https://github.com/user-attachments/assets/1d9bdfa8-1cb2-43ce-b4fb-fee8615d48b0)
-![image](https://github.com/user-attachments/assets/5c3171ba-c335-4806-95fa-f1f110bf79f5)
+. 다음으로는 소득 수준과 유방암 발생률 간 관계를 보여주는 이변량 그래프를 그려보았다. 
+![image](https://github.com/user-attachments/assets/5931967e-2f31-4f29-9934-fedd8266a881)
+
+. 그 다음, 소득 수준과 기대수명 간 관계를 보여주는 이변량 그래프 또한 그려주었다. 
+![image](https://github.com/user-attachments/assets/37590cd3-9aa9-4300-9a22-3ab5c5f0ea2b)
 
 
-**요약 : 소득 수준이 올라갈수록 기대수명이 올라가는 경향이 있음을 확인 할 수 있음.  **
+**요약 : 소득 수준이 올라갈수록 유방암발생률이 올라가지만, 기대수명 또한 올라가는 경향이 있음을 확인 할 수 있음.  **
